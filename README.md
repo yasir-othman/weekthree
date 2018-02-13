@@ -2,10 +2,10 @@
 second repository
 
 # My Second Script \
-Yasir Othman\
+Yasir Othman
 
 
-#! /bin/sh\
+#! /bin/sh
 
 nano NEW.img\
 ls -l\
