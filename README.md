@@ -2,7 +2,7 @@ second script
 # weekthree
 second repository
 
-# My Second Script \
+# My Second Script 
 Yasir Othman
 
 
